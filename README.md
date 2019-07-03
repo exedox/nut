@@ -1,3 +1,8 @@
+# Fork Description
+
+This is a fork of nut commit ad853c8ba773f2814317c570321b4e4ee6683393 which is the latest nut with scrape and scan working. This fork is to allow easy usage with doge.
+
+
 # Nut
 This is a program  that automatically downloads all games from the CDN, and organizes them on the file system as backups.  You can only play games that you have legally purchased / have a title key for.  Nut also provides a web interface for browsing your collection.
 
