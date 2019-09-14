@@ -1,6 +1,6 @@
 # Fork Description
 
-This is a fork of nut commit ad853c8ba773f2814317c570321b4e4ee6683393 which is the latest nut with scrape and scan working. This fork is to allow easy usage with doge.
+This is a fork of nut commit ad853c8ba773f2814317c570321b4e4ee6683393 along with scan bug fix. This fork is to allow easy usage with doge.
 
 
 # Nut
