@@ -31,11 +31,11 @@ def getByTitleId(id):
 	return None
 	
 def scan(base, force = False):
-    global hasScanned
-    #if hasScanned and not force:
-    #    return
-    hasScanned=True
-    i = 0
+	global hasScanned
+	#if hasScanned and not force:
+	#return
+	hasScanned=True
+	i = 0
 
 	fileList = {}
 
